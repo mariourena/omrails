@@ -1,5 +1,5 @@
-# One Month Rails
+# Test Rails App
 
-This is the sample application for one month rails.
+This is a test app to experiment with github and heroku.
 
 
